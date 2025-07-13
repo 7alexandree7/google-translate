@@ -1,3 +1,6 @@
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/bdbab566-f65b-45fc-a34d-cfe2f8b4b3f7" />
+
+
 1 - Estilização com tailwind
 2 - Componentização
 3 - React Hooks (useState - useEffect_)
